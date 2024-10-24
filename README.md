@@ -26,7 +26,7 @@ This course provides a place for students to practice the necessary computationa
 | Week | Dates       | Topic                                               | Assignments                              |
 |:----:|-------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | Mon: Oct 21  | Class intro, propositional logic [[Slides]](files/lecture_1.pptx) [[Reference on logic]](http://infolab.stanford.edu/~ullman/focs/ch12.pdf) [[Reference on predicates]](http://infolab.stanford.edu/~ullman/focs/ch14.pdf)||
-| 1    | Wed: Oct 23  | Proof techniques: direct proof, proof by cases [[Reference]](https://discrete.openmathbooks.org/dmoi3/sec_logic-proofs.html) ||
+| 1    | Wed: Oct 23  | Proof techniques: direct proof, proof by cases [[Slides]](files/lecture_2.pptx) [[Reference]](https://discrete.openmathbooks.org/dmoi3/sec_logic-proofs.html) ||
 | 1    | Fri: Oct 25  | Recitation|[Homework 1](files/F24_10607_HW1_Template.pdf) due Sunday|
 | 2    | Mon: Oct 28  | Proof techniques: contradiction, contraposition [[Reference]](https://discrete.openmathbooks.org/dmoi3/sec_logic-proofs.html) ||
 | 2    | Wed: Oct 30  | Proof techniques: induction [[Reference (2.3)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf) |||
