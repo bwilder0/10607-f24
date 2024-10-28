@@ -28,8 +28,8 @@ This course provides a place for students to practice the necessary computationa
 | 1    | Mon: Oct 21  | Class intro, propositional logic [[Slides]](files/lecture_1.pptx) [[Reference on logic]](http://infolab.stanford.edu/~ullman/focs/ch12.pdf) [[Reference on predicates]](http://infolab.stanford.edu/~ullman/focs/ch14.pdf)||
 | 1    | Wed: Oct 23  | Proof techniques: direct proof, proof by cases [[Slides]](files/lecture_2.pptx) [[Reference]](https://discrete.openmathbooks.org/dmoi3/sec_logic-proofs.html) ||
 | 1    | Fri: Oct 25  | Recitation|[Homework 1](files/F24_10607_HW1_Template.pdf) due Sunday|
-| 2    | Mon: Oct 28  | Proof techniques: contradiction, contraposition [[Reference]](https://discrete.openmathbooks.org/dmoi3/sec_logic-proofs.html) ||
-| 2    | Wed: Oct 30  | Proof techniques: induction [[Reference (2.3)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf) |||
+| 2    | Mon: Oct 28  | Proof techniques: contradiction, contraposition [[Slides]](files/lecture_3.pptx) [[Reference]](https://discrete.openmathbooks.org/dmoi3/sec_logic-proofs.html) ||
+| 2    | Wed: Oct 30  | Proof techniques: induction [[Slides]](files/lecture_4.pptx) [[Reference (2.3)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf) |||
 | 2    | Fri: Nov 1  | Recitation |[Homework 2](F24_10607_HW2_Template.pdf) due Sunday|
 | 3    | Mon: Nov 4  | Computational complexity [[Notes]](files/notes_complexity.pdf)||
 | 3    | Wed: Nov 6  | __Quiz 1__ + Computational complexity [[Reference (3.6)]](http://infolab.stanford.edu/~ullman/focs/ch03.pdf)| |
