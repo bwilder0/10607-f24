@@ -32,7 +32,7 @@ This course provides a place for students to practice the necessary computationa
 | 2    | Wed: Oct 30  | Proof techniques: induction [[Slides]](files/lecture_4.pptx) [[Reference (2.3)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf) |||
 | 2    | Fri: Nov 1  | [Recitation](files/Recitation_1Nov.pdf) |[Homework 2](F24_10607_HW2_Template.pdf) due Sunday|
 | 3    | Mon: Nov 4  | Computational complexity [[Slides]](files/lecture_5.pptx) [[Notes]](files/notes_complexity.pdf)||
-| 3    | Wed: Nov 6  | __Quiz 1__ + Computational complexity [[Reference (3.6)]](http://infolab.stanford.edu/~ullman/focs/ch03.pdf)| |
+| 3    | Wed: Nov 6  | __Quiz 1__ + Computational complexity [[Slides]](files/lecture_6.pptx) [[Reference (3.6)]](http://infolab.stanford.edu/~ullman/focs/ch03.pdf)| |
 | 3    | Fri: Nov 8  | Recitation| [Homework 3](files/10_607_Homework_3___Latex_Template.pdf) due Sunday|
 | 4    | Mon: Nov 11  | Algorithms: recursion [[Reference (2.6-7)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf)||
 | 4    | Wed: Nov 13  | Algorithms: dynamic programming [[Notes]](files/notes_dp.pdf)||
