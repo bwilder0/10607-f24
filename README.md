@@ -34,8 +34,8 @@ This course provides a place for students to practice the necessary computationa
 | 3    | Mon: Nov 4  | Computational complexity [[Slides]](files/lecture_5.pptx) [[Notes]](files/notes_complexity.pdf)||
 | 3    | Wed: Nov 6  | __Quiz 1__ + Computational complexity [[Slides]](files/lecture_6.pptx) [[Reference (3.6)]](http://infolab.stanford.edu/~ullman/focs/ch03.pdf)| |
 | 3    | Fri: Nov 8  | [Recitation](files/Recitation_Computational_Complexity.pdf)| [Homework 3](files/10_607_Homework_3___Latex_Template.pdf) due Sunday|
-| 4    | Mon: Nov 11  | Algorithms: recursion [[Reference (2.6-7)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf)||
-| 4    | Wed: Nov 13  | Algorithms: dynamic programming [[Notes]](files/notes_dp.pdf)||
+| 4    | Mon: Nov 11  | Algorithms: recursion [[Slides]](files/lecture_7.pptx) [[Reference (2.6-7)]](http://infolab.stanford.edu/~ullman/focs/ch02.pdf)||
+| 4    | Wed: Nov 13  | Algorithms: dynamic programming [[Slides]](files/lecture_8.pptx) [[Notes]](files/notes_dp.pdf)||
 | 4    | Fri: Nov 15  | Recitation|Homework 4 due Sunday|
 | 5    | Mon: Nov 18  | Trees [[Reference (5.2-5)]](http://infolab.stanford.edu/~ullman/focs/ch05.pdf )||
 | 5    | Wed: Nov 20  | __Quiz 2__ + Stacks, Queues, and Lists [[Reference (6.2-8)]](http://infolab.stanford.edu/~ullman/focs/ch06.pdf) ||
