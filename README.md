@@ -42,7 +42,7 @@ This course provides a place for students to practice the necessary computationa
 | 5    | Fri: Nov 22  | Recitation||
 | 6    | Mon: Nov 25  |Graphs [[Reference (9.2-6)]](http://infolab.stanford.edu/~ullman/focs/ch09.pdf )  ||
 | 6    | Wed: Nov 27 | No class||
-| 6    | Fri: Nov 29  | No recitation|Homework 5+6 due Sunday|
+| 6    | Fri: Nov 29  | No recitation|[Homework 5+6 due Sunday](files/10_607_Homework_5___Latex_Template.pdf)|
 | 7    | Mon: Dec 2  | Optimization  [[Notes on search]](files/notes_search.pdf)   ||
 | 7    | Wed: Dec 4  | Optimization   ||
 | 7    | Fri: Dec 6  | __Quiz 3__ |Homework 7  due Sunday|
