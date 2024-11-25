@@ -40,7 +40,7 @@ This course provides a place for students to practice the necessary computationa
 | 5    | Mon: Nov 18  | Trees and lists [[Slides]](files/lecture_9.pptx) [[Reference (5.2-5)]](http://infolab.stanford.edu/~ullman/focs/ch05.pdf ) [[Reference (6.2-5)]](http://infolab.stanford.edu/~ullman/focs/ch06.pdf)||
 | 5    | Wed: Nov 20  | __Quiz 2__ + Stacks and Queues [[Slides]](files/lecture_10.pptx)  [[Reference (6.6-8)]](http://infolab.stanford.edu/~ullman/focs/ch06.pdf) ||
 | 5    | Fri: Nov 22  | Recitation||
-| 6    | Mon: Nov 25  |Graphs [[Reference (9.2-6)]](http://infolab.stanford.edu/~ullman/focs/ch09.pdf )  ||
+| 6    | Mon: Nov 25  |Graphs [[Slides]](files/lecture_11.pptx) [[Reference (9.2-6)]](http://infolab.stanford.edu/~ullman/focs/ch09.pdf )  ||
 | 6    | Wed: Nov 27 | No class||
 | 6    | Fri: Nov 29  | No recitation|[Homework 5+6 due Sunday](files/10_607_Homework_5___Latex_Template.pdf)|
 | 7    | Mon: Dec 2  | Optimization  [[Notes on search]](files/notes_search.pdf)   ||
