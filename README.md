@@ -45,4 +45,4 @@ This course provides a place for students to practice the necessary computationa
 | 6    | Fri: Nov 29  | No recitation|[Homework 5+6 due Sunday](files/10_607_Homework_5___Latex_Template.pdf)|
 | 7    | Mon: Dec 2  | Optimization  [[Notes on search]](files/notes_search.pdf)   ||
 | 7    | Wed: Dec 4  | Optimization   ||
-| 7    | Fri: Dec 6  | __Quiz 3__ |Homework 7  due Sunday|
+| 7    | Fri: Dec 6  | __Quiz 3__ |[Homework 7](files/10_607_Homework_7___Latex_Template.pdf)  due Sunday|
